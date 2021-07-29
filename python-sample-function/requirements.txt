@@ -1,0 +1,2 @@
+--extra-index-url https://oauth2accesstoken:{ACCESS-TOKEN-HERE}@us-west1-python.pkg.dev/megan-testing-cicd/python-gcb-gcf/simple/
+python_sample
